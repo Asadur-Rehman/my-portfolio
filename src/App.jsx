@@ -17,7 +17,7 @@ function App() {
         {/* Main Content */}
         <main className="flex-grow bg-gray-100 pt-16">
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/Asads-Portfolio" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/contact" element={<Contact />} />
